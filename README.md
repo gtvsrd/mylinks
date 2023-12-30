@@ -1,10 +1,10 @@
-<h1 align="center"> Link Aggregator </h1>
+<h1 align="center"> My Links </h1>
 
 <p align="center">
-Web application for publishing links in an clean and organized way. <br/>
+Web application for publishing links in a clean and organized way. <br/>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">License</a>
 </p>
@@ -19,9 +19,9 @@ Web application for publishing links in an clean and organized way. <br/>
   <img alt="Projeto Link Aggregator" src=".github/cover.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologies
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following tech:
 
 - HTML and CSS
 - JavaScript
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Project
 
-The Link Aggregator it's a Linktree-like app for powering creators that need to share their links to their audience; it's best used for a online visit-card type website.
+My Links it's a Linktree-like app for powering creators that need to share their links to their audience; it's best used for a online visit-card type website.
 
 It was based on the Rocketseat's DevLinks project, that is available on the Discover trail in app.rocketseat.com/dashboard (subscription required).
 
