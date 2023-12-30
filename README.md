@@ -1,13 +1,12 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Link Aggregator </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-
+Web application for publishing links in an clean and organized way. <br/>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-tecnologias">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
@@ -17,27 +16,28 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="Projeto Link Aggregator" src=".github/cover.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologies
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML and CSS
 - JavaScript
-- Git e Github
+- Git and Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+The Link Aggregator it's a Linktree-like app for powering creators that need to share their links to their audience; it's best used for a online visit-card type website.
 
+It was based on the Rocketseat's DevLinks project, that is available on the Discover trail in app.rocketseat.com/dashboard (subscription required).
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project is under the MIT license.
 
 ---
 
-Feito com ♥ pela Rocketseat
+Built with ♥ by @gtvsrd
