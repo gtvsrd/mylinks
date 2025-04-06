@@ -15,6 +15,80 @@
   --switch-bg-url: url(./assets/moon-stars.svg);
 }
 
+.music-player {
+  background-color: gray;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.player-content {
+  display: flex;
+  align-items: center;
+  width: 300px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+#song-name-wrapper {
+  display: inline-flex;
+  animation: slide-left 15s linear infinite; /* Valor inicial, sobrescrito por JS */
+}
+
+#song-name {
+  color: white;
+  padding-right: 300px; /* Espaço apenas após o original */
+}
+
+#song-name-duplicate {
+  color: white;
+  padding-right: 0; /* Remove o espaço após o duplicado */
+}
+
+@keyframes slide-left {
+  0% {
+    transform: translateX(300px); /* Começa fora à direita */
+  }
+  100% {
+    transform: translateX(-100%); /* Move até o duplicado preencher */
+  }
+}
+
+.button-container {
+  border-bottom: gray solid 5px;
+  display: flex;
+  align-items: center;
+  height: 50px;
+}
+
+#play-pause {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+  color: white !important;
+  padding: 0;
+}
+
+#play-pause-icon {
+  color: white !important;
+  display: block;
+}
+
+#play-pause-icon.play::before {
+  content: '\25B6';
+}
+
+#play-pause-icon.pause::before {
+  content: '\23F8';
+}
+
 .light {
   --text-color: black;
   --bg: rgb(230, 230, 230);
